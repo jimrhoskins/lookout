@@ -2,7 +2,7 @@
   "author": "Jim Hoskins <jim@jimhoskins.com> (http://jimhoskins.com)",
   "name": "lookout",
   "description": "Persistent File Change Watcher",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/jimrhoskins/lookout.git"
